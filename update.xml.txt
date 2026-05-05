@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='oecppjeoccdjgailkedjleplmcfjhdde'>
     <updatecheck 
-  codebase='http://127.0.0.1:8000/jira-worker.crx'
-  version='1.3.0' />
+      codebase='http://127.0.0.1/jira-worker.crx'
+      version='1.3.0' />
   </app>
 </gupdate>
